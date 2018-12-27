@@ -1,5 +1,5 @@
-WIFI_ESSID    = "OpenWrt"
-WIFI_PASSWORD = "milecrewfleebox57elmstone#"
+WIFI_ESSID    = ""
+WIFI_PASSWORD = ""
 EXEC_FILE     = "mqtt_switch_node.lua"
 timeout       = 15
 
